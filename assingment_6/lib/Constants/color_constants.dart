@@ -31,4 +31,6 @@ class ColorConstant {
   static int color22 = 0xffB8B8B8;
   static int color23 = 0xff2A6550;
   static int color24 = 0xff442A65;
+  static int color25 = 0xff3B2042;
+  static int color26 = 0xff422028;
 }

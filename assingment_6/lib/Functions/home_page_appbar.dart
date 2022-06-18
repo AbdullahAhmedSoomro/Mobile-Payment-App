@@ -1,5 +1,6 @@
 import 'package:assingment_6/Pages/balance.dart';
 import 'package:assingment_6/Pages/home.dart';
+import 'package:assingment_6/Pages/offers.dart';
 import 'package:flutter/material.dart';
 
 import '../Constants/color_constants.dart';
@@ -125,7 +126,12 @@ appBarFunc1(context) {
             Container(
               padding: EdgeInsets.all(4),
               child: ElevatedButton(
-                onPressed: () {},
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => const Offers()),
+                  );
+                },
                 style: ButtonStyle(
                   backgroundColor: MaterialStateProperty.all(
                     Color(ColorConstant.color),

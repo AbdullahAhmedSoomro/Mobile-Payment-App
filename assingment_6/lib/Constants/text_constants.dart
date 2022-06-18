@@ -47,4 +47,13 @@ class TextConstant {
   static String text46 = "1142521547852";
   static String text47 = "35873.5";
   static String text48 = "Add / Manage Accounts";
+  static String text49 = 'Mobile Recharge Offer';
+  static String text50 = 'DTH Recharge Offer';
+  static String text51 = 'Flipkart Shopping Offer';
+  static String text52 = 'RS 500 off on Flight';
+  static String text53 = 'Use Code FIRST20. T&C Apply';
+  static String text54 = 'Use Code DTH20. T&C Apply'; 
+  static String text55 = '50% off on all items. T&C Apply';
+  static String text56 = '500 Discount on flights. T&C Apply';
 }
+
