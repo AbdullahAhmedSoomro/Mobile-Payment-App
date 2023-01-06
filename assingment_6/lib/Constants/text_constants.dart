@@ -1,5 +1,4 @@
 class TextConstant {
-  static String text1 = "INSTANT PAY";
   static String text2 = "Your Perfect Payment Partner";
   static String text3 = "LOGIN WITH YOUR MOBILE PHONE NUMBER";
   static String text4 = "Enter Mobile Number";
@@ -52,8 +51,7 @@ class TextConstant {
   static String text51 = 'Flipkart Shopping Offer';
   static String text52 = 'RS 500 off on Flight';
   static String text53 = 'Use Code FIRST20. T&C Apply';
-  static String text54 = 'Use Code DTH20. T&C Apply'; 
+  static String text54 = 'Use Code DTH20. T&C Apply';
   static String text55 = '50% off on all items. T&C Apply';
   static String text56 = '500 Discount on flights. T&C Apply';
 }
-

@@ -1,14 +1,14 @@
+import 'package:assingment_6/Constants/color_constants.dart';
+import 'package:assingment_6/Constants/image_constants.dart';
+import 'package:assingment_6/Constants/text_constants.dart';
+import 'package:assingment_6/Functions/circle_avatar_func1.dart';
+import 'package:assingment_6/Functions/home_page_appbar.dart';
+import 'package:assingment_6/Functions/home_page_body_container.dart';
+import 'package:assingment_6/Functions/home_page_containerbar.dart';
+import 'package:assingment_6/Functions/home_page_containerbar2.dart';
+import 'package:assingment_6/Functions/home_page_func1.dart';
+import 'package:assingment_6/Functions/home_page_func2.dart';
 import 'package:flutter/material.dart';
-import '../Constants/color_constants.dart';
-import '../Constants/image_constants.dart';
-import '../Constants/text_constants.dart';
-import '../Functions/circle_avatar_func1.dart';
-import '../Functions/home_page_appbar.dart';
-import '../Functions/home_page_body_container.dart';
-import '../Functions/home_page_containerbar.dart';
-import '../Functions/home_page_containerbar2.dart';
-import '../Functions/home_page_func1.dart';
-import '../Functions/home_page_func2.dart';
 
 class HomeContainer extends StatelessWidget {
   const HomeContainer({Key? key}) : super(key: key);

@@ -1,9 +1,5 @@
-import 'package:assingment_6/Pages/balance.dart';
 import 'package:flutter/material.dart';
-
-import 'Pages/home.dart';
-import 'Pages/login_page.dart';
-import 'Pages/open_page.dart';
+import 'Pages/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,11 +10,9 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Scaffold(
-        body: Open(),
-      ),
+      home: SplashScreen(),
     );
   }
 }
